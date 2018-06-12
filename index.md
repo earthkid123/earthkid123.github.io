@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Hello My name is Joseph Abel I currently hold a Bachelor of Science in Computer Engineering from the State University of
+New York at New Paltz(for now). This website is going to contain a collection of tutorials I have written, some projects
+I have been working on, notes from Massive Open Online Courses (MOOCS) and reviews from MOOCS I have taken. 
