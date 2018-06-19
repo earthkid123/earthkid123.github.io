@@ -3,4 +3,4 @@ layout: page
 title: Tutorials
 permalink: /tutorials/
 ---
-This is where the tutorials will be
+This is where the tutorials will be :)
