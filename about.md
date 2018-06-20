@@ -1,18 +1,78 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
+|Education|Degree|
+|---------|:-------|
+|SUNY New Paltz| B.S. Computer Engineering|
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Professional Experience:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+|Instructional Support Technician – Farmingdale State College (1/18 to present)|
+|------------------------------------------------------------------------------|
+|	Develop technical labs for the entire Computer Security Technology program |
+| Develop technical labs for the Security Systems program|
+|	Maintain all switches, routers, firewalls and computers within the department|
+|Prepare Technical budgets |
+|	Maintain inventory of equipment within the department |
+|	Aid Professors in the teaching of the course material for the students|
+  
+  
+Technical Proficiencies: 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+| Languages|
+| -------------|
+| Java|
+| C| 
+|ARM Assembly|
+| C++| 
+|Python|
+|R|
+|Matlab|
+|Go|
 
+|Database Tools|
+|--------------|
+|SQLite|
+|MongoDB|
 
-[jekyll-organization]: https://github.com/jekyll
+|Networking/Security Tools|
+|-------------------------|
+|Wireshark|
+|Kleopatra|
+|Jenkins|
+|Snort|
+|Cisco Packet Tracer|
+
+|Cloud Services|
+|--------------|
+|Amazon Web Services|
+
+|Container Orchestration Tools|
+|-----------------------------|
+|Docker|
+
+|Web Frameworks|
+|--------------|
+|Flask|
+|Django|
+
+|Machine Learning/Data Science libraries/Tools|
+|---------------------------------------|
+|TensorFlow|
+|Pandas|
+|NumPy|
+|Matplotlib|
+|SciPy|
+|ggplot2|
+|plyr|
+|Tableau|
+
+|Other Tools|
+|-----------|
+|Sage Math|
+|Ubuntu|
+|Nginx|
+|Kali Linux|
+|Metasploit|
