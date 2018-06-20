@@ -11,7 +11,7 @@ Professional Experience:
 
 |Instructional Support Technician – Farmingdale State College (1/18 to present)|
 |------------------------------------------------------------------------------|
-|	Develop technical labs for the entire Computer Security Technology program |
+|	Develop technical labs for the Computer Security Technology program |
 | Develop technical labs for the Security Systems program|
 |	Maintain all switches, routers, firewalls and computers within the department|
 |Prepare Technical budgets |
