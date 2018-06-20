@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Don't be a stranger if you want to reach out to me contact me!
+Don't be a stranger if you want to reach out to me contact me or click the Facebook/Twitter links below
 
 Email: abel.joseph246@gmail.com
 
