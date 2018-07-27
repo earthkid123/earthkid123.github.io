@@ -3,4 +3,9 @@ layout: page
 title: Tutorials
 permalink: /tutorials/
 ---
-This is where the tutorials will be :)
+
+Python 
+
+Numpy Tutorial
+
+[First Draft of Numpy Tutorial More edits to come](earthkid123.github.io/_posts/numpy_tutorial.md)
