@@ -8,5 +8,5 @@ Python
 
 Numpy Tutorial
 
-[First Draft of Numpy Tutorial More edits to come](earthkid123.github.io/_posts/numpy_tutorial.md)
+[First Draft of Numpy Tutorial More edits to come](/Tutorials/numpy_tutorial.html )
  
