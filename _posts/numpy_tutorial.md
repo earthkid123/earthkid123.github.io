@@ -3,6 +3,7 @@ layout: post
 title: Numpy Tutorial
 author: Joseph Abel
 date: 07/26/2018
+category: Tutorials
 download: true
 
 ---
