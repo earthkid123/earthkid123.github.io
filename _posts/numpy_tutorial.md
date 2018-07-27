@@ -1,3 +1,12 @@
+---
+layout: post
+title: Numpy Tutorial
+author: Joseph Abel
+date: 07/26/2018
+download: true
+
+---
+
 Numpy Tutorial
 
 What is NumPy? Well we have been using it but what is it. Really all it is a package used for Scientific Computing with Python. This will a BRIEF overview of Numpy really the best way to learn about these functions is from doing little projects and posting them on your Github. You also have to learn how to look through an API or a package index and be able to see which functions are located within the package.
