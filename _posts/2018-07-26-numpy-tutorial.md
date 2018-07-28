@@ -350,8 +350,8 @@ I can’t give you everything about numpy but where’s the fun in that Check ou
 
 Numpy Documentation:
 
-https://docs.scipy.org/doc/numpy-1.12.0/reference/index.html
+[Documentation of NumPy](https://docs.scipy.org/doc/numpy-1.12.0/reference/index.html)
 
 When I first started learning Numpy I used this website also it’s a great link:
-http://cs231n.github.io/python-numpy-tutorial/
+[Another tutorail which helped me learn NumPy when I first started](http://cs231n.github.io/python-numpy-tutorial/)
 
