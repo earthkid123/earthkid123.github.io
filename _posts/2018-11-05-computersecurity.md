@@ -1,6 +1,11 @@
-Computer Security 1 Lab 1
-Joseph Abel
-October 27, 2018
+---
+layout: post
+title:: Linux Tutorial
+author: Joseph Abel
+date: 2018-10-27
+category: Tutorials
+download: true
+---
 
 Welcome to Computer Security 1! There is a growing need for profession-
 als who understand computer security topics. The first lab will explain about
@@ -279,6 +284,7 @@ can further maneuver using the period character. For example, the command
 cd.. Would move up one directory. In this case you would maneuver back to the
 home folder. Alternatively the cd command with no directory as an argument
 will always return you to the home directory.
+
 Question 1.5:Maneuver to the /usr/bin directory and take a screenshot of
 it. (Inside this bin directory is where many standard commands are installed.)
 
@@ -353,6 +359,7 @@ future lab), the third column states the owner, the fourth column states group
 owner, the fifth column states the size of the file or directory, the sixth-eighth
 column states the time at which the file or directory was last modified, and the
 ninth column states the file or directory name.
+
 Question 1.8:Examine the different permissions and tell me the type of
 file and what permissions the user does and doesn’t have:
 
@@ -375,9 +382,9 @@ in their credentials in order to use the sudo command.
 For instance if you want to create a text file called farmingdale.txt using
 sudo privileges. Since you are using sudo it will prompt you for your password
 to create the text file. Let’s break down an example command:
-
+```
 sudo nano farmingdale.txt
-
+```
 sudo: The administrative command. It is only used by administrators and
 delegates commands to groups or users. It allows the creation of password
 protected administrative files.
