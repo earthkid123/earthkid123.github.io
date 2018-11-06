@@ -1,6 +1,6 @@
 ---
 layout: post
-title:: Computer-Security
+title:: Computer Security
 author: Joseph Abel
 date: 2018-10-27
 category: Tutorials
