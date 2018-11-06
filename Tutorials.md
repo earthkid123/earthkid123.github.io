@@ -13,3 +13,4 @@ Numpy Tutorial
 [Ubuntu Tutorial Part one](https://earthkid123.github.io/tutorials/2018/11/05/computersecurity.html)
 
  
+[Test](assets/Linux/2018-11-05-computer-security.pdf)
