@@ -4,4 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-These are where my projects will go and a quick synopsis of them 
+<b> Data Analytics Tool </b>
+A project that I am working on is a Data Analytics tool. This tool will be developed using python and the updates for it will be here.
+
+<b> Cryptography </b>
+Another project is underway which will involve a lot of cryptography this project will remain a secret until furhter notice. 
