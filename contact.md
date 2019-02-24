@@ -15,3 +15,5 @@ Email: abel.joseph246@gmail.com
 [Stack Overflow](https://stackoverflow.com/users/9927423/joe-a)
 
 [Quora](https://www.quora.com/profile/Joe-Abel-2)
+
+[Linkedin](https://www.linkedin.com/in/joseph-abel-49814383)
