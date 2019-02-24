@@ -26,6 +26,8 @@ This class designed by Google Cloud is a nice introduction to containers andallo
 
  <b> edX Classes </b>
  
+ edX is similar to coursera as it is a free Massive Open Online Learning classroom where individuals are able to learn different technologies & concepts through different universities.
+ 
  <b> Embedded Systems Shape the World Microcontroller</b>
  
  This class bought to us by UTAustinX on edX is a great class it goes through the basics of embedded system using the C programming language. This class also use the General Purpose Input Output (GPIO) of the tm4c123g-XL board and allows students to program different embedded system designs in order to see how hardware interfaces with software. In the course you will learn how to use switches, sensors, motors & LCDs to interface with the board. In addition some advanced techniques will be learned as well such as how to use Finite State Machines and develop embedded system designs, use logic analyzers & even develop a simple video game as a final project. I really enjoyed this class and will defintley teach you the basics of embedded systems. Honestly this class opened up my eyes and enabled me to find a interest in embedded systems/ Internet of Things (IoT). Think of this class as a way which enables humans to understand signals & sensors which are found in nature and formulate them into a digital signal which is how devices understand data.
@@ -33,5 +35,6 @@ This class designed by Google Cloud is a nice introduction to containers andallo
  <b> Real-Time Bluetooth Networks- Shape the World</b> 
  
  This class is a continuation of the class above it teaches you about the different concepts that are developed when devising a real-time operating system (RTOS). In the class we will go through advanced C programming concepts and show how to design a low Bluetooth module using the CC2650 , tm4c123g-xl board & the MK-II booster pack which has sensors on the board. In this course you learn about the different scheduler techniques & the different blocking mechanisms which compose an operating system. An indivdual can think of this class as a way for how humans can understand the operating system which they use & are all around them.
+ 
  
  
