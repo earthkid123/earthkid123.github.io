@@ -18,8 +18,6 @@ Professional Experience:
 |	Maintain inventory of equipment within the department |
 |	Aid Professors in the teaching of the course material for the students|
   
-----------------------------------------------------------------------------------
-
   
 Technical Proficiencies: 
 
