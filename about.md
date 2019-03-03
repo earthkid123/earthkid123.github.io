@@ -74,7 +74,7 @@ Technical Proficiencies:
 |plyr|
 |Tableau|
 
-|Other Tools|
+|Other Software Tools|
 |-----------|
 |Sage Math|
 |Ubuntu|
