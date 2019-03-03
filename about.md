@@ -46,6 +46,9 @@ Technical Proficiencies:
 |Jenkins|
 |Snort|
 |Cisco Packet Tracer|
+|Kali Linux|
+|Metasploit|
+|Metasploitable|
 
 |Cloud Services|
 |--------------|
@@ -76,5 +79,8 @@ Technical Proficiencies:
 |Sage Math|
 |Ubuntu|
 |Nginx|
-|Kali Linux|
-|Metasploit|
+|Encase Forensics|
+|FTK Imager|
+|Faro Zone 3D|
+|ArcGIS|
+
