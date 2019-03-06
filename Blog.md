@@ -3,6 +3,10 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+<b>Giving Back to the Community</b>
+
+At the core of who I am is the need to give back. The first way I give back is helping students in Computer Science, Calculus and engineering classes by helping them I figure they will learn something new and who knows I might also. (there's no cost free help! my mentality is I love puzzles and maybe I'll learn something new from it so let's just give it the old college try.) The second way I give back is at work we have a STEM diversity summit which I volunteer for and show the kids how the Arduino platform works. These kids come from all different middle and high schools and they are always ready to learn. The third way I give back is that I just recently set up a program at the West Babylon Public Library where I will be teaching the subject matter of Arduinos to students (in middle and High School) in the West Babylon area. My goal through doing all this is to promote open education and give back to the programming community. 
+
 <b> What's a MOOC? </b>
 A Massive Open Online Classroom (MOOC) is an environment where students can view videos & perform lab activities based on their own pace. The beautiful thing is that the courses are free most of the time. The only time you would need to pay is if you wanted a certificate in said course.
 
