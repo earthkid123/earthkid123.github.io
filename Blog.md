@@ -3,6 +3,9 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+<b> Update </b> 
+Well I gave the program at the West Babylon Public Library and it went well. I had everyone in there from ages of fourth grade to 65 years of age. All people interested in electronics/ former IT programmers. They were talking about Peach Tree and Basic and all these old school tech things. They all learned a lot and I sent them all my powerpoint. In the program they all blinked and held LED lights on it took two hours to go through it all (Oy!) but still worth it. Hopefully the next program will be on Python or Web site development. In addition I taught Arduinos at our STEM Diversity Summit at Farmingdale State College students form Uniondale and Brooklyn High School were there and we hada great tech conversation about StackOverflow, GitHub and many other stuff. Teaching electronics and showcasing the knowledge which I learned to these students is awesome I really enjoy it.
+
 <b>Giving Back to the Community</b>
 
 At the core of who I am is the need to give back. The first way I give back is helping students in Computer Science, Calculus and engineering classes by helping them I figure they will learn something new and who knows I might also. (there's no cost free help! my mentality is I love puzzles and maybe I'll learn something new from it so let's just give it the old college try.) The second way I give back is at work we have a STEM diversity summit which I volunteer for and show the kids how the Arduino platform works. These kids come from all different middle and high schools and they are always ready to learn. The third way I give back is that I just recently set up a program at the West Babylon Public Library where I will be teaching the subject matter of Arduinos to students (in middle and High School) in the West Babylon area. My goal through doing all this is to promote open education and give back to the programming community. 
