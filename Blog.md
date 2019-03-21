@@ -3,6 +3,9 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+<b> Smart Grid Security </b>
+I'm by no means an expert in any field of study but I am a curious student for life. One of the topics which I've never understood is smart grid security. I've read some basic papers/articles and I understand the basics of what a smart grid is but I couldn't hold a conversation with someone about it for more than 5 minutes. If anyone who reads this has a good resource for understanding Smart Grid Technology defintley let me know or even refer me to a GitHub which might illustrate it I'm open to pretty much anything. The reason I ask all of you who read this (or maybe nobody reads this) is because I just am curious about the topic a professor where I worked briefly mentioned the topic and it fascinated me. 
+ 
 <b> Update </b> 
 
 Well I gave the program at the West Babylon Public Library and it went well. I had everyone in there from ages of fourth grade to 65 years of age. All people interested in electronics/ former IT programmers. They were talking about Peach Tree and Basic and all these old school tech things. They all learned a lot and I sent them all my powerpoint. In the program they all blinked and held LED lights on it took two hours to go through it all (Oy!) but still worth it. Hopefully the next program will be on Python or Web site development. In addition I taught Arduinos at our STEM Diversity Summit at Farmingdale State College students form Uniondale and Brooklyn High School were there and we hada great tech conversation about StackOverflow, GitHub and many other stuff. Teaching electronics and showcasing the knowledge which I learned to these students is awesome I really enjoy it.
