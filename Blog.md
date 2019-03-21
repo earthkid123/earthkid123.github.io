@@ -4,6 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 <b> Smart Grid Security </b>
+
 I'm by no means an expert in any field of study but I am a curious student for life. One of the topics which I've never understood is smart grid security. I've read some basic papers/articles and I understand the basics of what a smart grid is but I couldn't hold a conversation with someone about it for more than 5 minutes. If anyone who reads this has a good resource for understanding Smart Grid Technology defintley let me know or even refer me to a GitHub which might illustrate it I'm open to pretty much anything. The reason I ask all of you who read this (or maybe nobody reads this) is because I just am curious about the topic a professor where I worked briefly mentioned the topic and it fascinated me. 
  
 <b> Update </b> 
