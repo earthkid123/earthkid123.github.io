@@ -17,6 +17,7 @@ Professional Experience:
 |Prepare Technical budgets |
 |	Maintain inventory of equipment within the department |
 |	Aid Professors in the teaching of the course material for the students|
+
 (It's not technically a job but I'm also part of the College Wide Curriculum Committee. I review Course Changes departments want to make and I also review new courses which departments want to design. (It's all about that Bloom's Taxonomy)
   
 Technical Proficiencies: 
