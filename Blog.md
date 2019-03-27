@@ -3,6 +3,12 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+
+<b> First Robotics Long Island </b> 
+
+The FIRST Robotics Long Island Regional Competition is this week (03/27/19) and there are teams from Long Island to Turkey here all around the world! It is quite a sight. The partcipats are High School members from grades 9 to 12 and they recieve a kit of parts in January where they need to devise a "sudo" robot then eventually after they get through that they are tasked with developing a robot in 6 weeks! That's crazy all the testing, development and such is done in these 6 weeks and of course they get parts from FIRST but still kind of crazy. Each group has a high school advisor on it in order to guide them on their journey. I saw some pretty awesome inventions at the event there was a robot which had a suction cup on it, a pulley/axle shaft based system to launch little orange balls. If you are at Hofstra Univeristy this week defintley check it out!!! They always look for sponsors also! 
+
+
 <b> Smart Grid Security </b>
 
 I'm by no means an expert in any field of study but I am a curious student for life. One of the topics which I've never understood is smart grid security. I've read some basic papers/articles and I understand the basics of what a smart grid is but I couldn't hold a conversation with someone about it for more than 5 minutes. If anyone who reads this has a good resource for understanding Smart Grid Technology defintley let me know or even refer me to a GitHub which might illustrate it I'm open to pretty much anything. The reason I ask all of you who read this (or maybe nobody reads this) is because I just am curious about the topic a professor where I worked briefly mentioned the topic and it fascinated me. 
