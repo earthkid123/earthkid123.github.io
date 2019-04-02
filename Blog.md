@@ -3,6 +3,9 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+<b> Sensors </b>
+
+I enjoy working with the raspberry pi hardware platform. Everday I use the platform whether its for designing PIR motion Sensor modules in python for the students in my department, showing them how to write python scripts in order to use computer vision in the raspberry pi camera module. It can be a lot of things those are just some examples sensors are key to unlocking a lot of truths in our universe and that's the point I want them to understand in addition I want them to understand how hardware and software work on a low level to make different common househeld items run "sudoish"
 
 <b> First Robotics Long Island </b> 
 
