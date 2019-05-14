@@ -1,12 +1,13 @@
 ---
-layout: pagey
+layout: page
 title: Blog
 permalink: /blog/
 ---
 
+
 <b> Cypress PSOC 6 </b>
 
-I'm so excited I got this new embedded systems board the PSOC 6 by Cypress it seems like an awesome board and I'm excited to start developing with it!!
+I'm excited I got this new embedded systems board the PSOC 6 by Cypress it seems like an awesome board and I'm excited to start developing with it!!
 
 
 <b> Sensors </b>
