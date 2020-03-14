@@ -6,9 +6,11 @@ permalink: /blog/
 
 
 <b> Spring 2020 </b>
+
 Here we are as I write this blog post now it is March 14th we are in the middle of a COVID-19 pandemic throughout our nation but no need to be alarmed we will for sure work this out I have confidence in our society. If you are reading this and have an open soruce project in regards to COVID-19 feel free to reach out to me I would love to contribute to it. But i digress as I write this to you I'm currently in CS 6238 Secure Computer Systems (SCS) and I got to say the course is very interesting and definitley thought provoking with weekly quizzes on lecture material and four projects which are composed of: paging in memory, Two Factor Authentication, Setuid vulnerabilities & Distributed Systems. This class is a very good advanced security class and  I look forward to many other courses which I will take throughout my time at Georgia Tech.
 
 <b> TA For CS 6035 </b>
+
 So below this post should be a blurb about how I just started my adventures at Georgia Tech Online. A little over halfway through the course the Teacher Assistants for this course released a form to fill out if you are interested in being a Teacher Assistant I was interested since I was one in my undergrad so i applied. Long story short i ended up getting the spot so now as I write this to you as I'm a TA for CS 6035 (by the time this is being written i already completed the course). I was thrilled to accept the offer and help out students. 
 
 <b> Georgia Tech Online masters in Cybersecurity(OMSCY)...Not to be confused with Georgia Tech's Online Masters in Computer Science (OMSCS) </b>
