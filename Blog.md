@@ -5,6 +5,16 @@ permalink: /blog/
 ---
 
 
+<b> Spring 2020 </b>
+Here we are as I write this blog post now it is March 14th we are in the middle of a COVID-19 pandemic throughout our nation but no need to be alarmed we will for sure work this out I have confidence in our society. If you are reading this and have an open soruce project in regards to COVID-19 feel free to reach out to me I would love to contribute to it. But i digress as I write this to you I'm currently in CS 6238 Secure Computer Systems (SCS) and I got to say the course is very interesting and definitley thought provoking with weekly quizzes on lecture material and four projects which are composed of: paging in memory, Two Factor Authentication, Setuid vulnerabilities & Distributed Systems. This class is a very good advanced security class and  I look forward to many other courses which I will take throughout my time at Georgia Tech.
+
+<b> TA For CS 6035 </b>
+So below this post should be a blurb about how I just started my adventures at Georgia Tech Online. A little over halfway through the course the Teacher Assistants for this course released a form to fill out if you are interested in being a Teacher Assistant I was interested since I was one in my undergrad so i applied. Long story short i ended up getting the spot so now as I write this to you as I'm a TA for CS 6035 (by the time this is being written i already completed the course). I was thrilled to accept the offer and help out students. 
+
+<b> Georgia Tech Online masters in Cybersecurity(OMSCY)...Not to be confused with Georgia Tech's Online Masters in Computer Science (OMSCS) </b>
+
+I haven't been on here for a while i guess i should give a status update as to how everything is going. Well I recently (fall 2019) started at Georgia Tech for an online masters in cybersecurity. It has been an incredible time so far and i'm only two semesters in. First semester I took two classes PUBP 6725 Information Security Policies & CS 6035 Introduction to Information Security. The Policy class talked about the socoeconomic effect and governing effects of cybersecurity throughout the world and different policies and proceudres which people utilize in order to form a more safe, secure world. The CS 6035 course covered information security from the ground up from buffer overflows, firewalls, access control, cryptography and web vulnerabilities. This course was awesome beause of all the hands on project we got to do like overflowing a buffer, malware analysis, RSA & Python  and last but not least SQL injection and XSS attacks. I highly reccomend this course for anyone interested in security but it can be tough for some people due to its programming nature. 
+
 <b> Cypress PSOC 6 </b>
 
 I'm excited I got this new embedded systems board the PSOC 6 by Cypress it seems like an awesome board and I'm excited to start developing with it!!
