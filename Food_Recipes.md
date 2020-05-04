@@ -14,7 +14,7 @@ Pizza<br />
 4.) Put it in the oven for 8 minutes on 400 degrees or until cheese is melted and edges are turning brown. Take out of the oven let it cool for a minute or two.<br />
 5.) Take a pizza cutter and dig into your yummy pizza!<br />
 
-Semi healthy Chicken Parmesian(Note: I usually have 6 chicken cutlets which equals out to 12 pieces for 5 people.  <br />
+Semi healthy Chicken Parmesian(Note: I usually have 6 chicken cutlets which equals out to 12 pieces for 5 people.)  <br />
 1.) First we need to gather our chicken cutlets i usually enjoy thick pieces so i slice them in half vertically but could be done via horizontal for thin pieces.  Once your piece of chicken is cut then you need to crack open some eggs and put them in a bowl i think 2 should be good. use a fork and whisk the eggs into a mixture which is densley yellow and you can't see the yolk.<br />
 
 2.) Once that is done put your piece of chicken in a yolk and while it is sitting gather your bread crumbs on a plate use your favorite kind. I enjoy using plain because then i can put in my own spices like red chilli flakes, garlic powder, oregano, zesty lemon and italian seasoning. I mix that mixture up and then put the current piece of chicken in the egg plate to the bread crumbs and make sure you get it really covered the bread crumbs and then repeat this process for the rest of the chicken. Once each piece of chicken is done feel free to put them in a tin or cooking dish. We are going to bake the chicken yep it's going to be semi healthy! <br />
