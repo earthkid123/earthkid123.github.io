@@ -16,7 +16,8 @@ Pizza
 
 Chicken Parmesian
 
---coming soon--
+--coming soon--<br />
+
 Hibachi style Chicken and Steak with Fried Rice
 
 --Coming Soon--
