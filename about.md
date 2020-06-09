@@ -9,6 +9,13 @@ permalink: /about
 
 Professional Experience:
 
+|Teacher Assistant - Georgia Institute of Technology(1/20 to present)|
+|------------------------------------------------------------------------------|
+|Develop content for exams and quizzes used in the CS 6035 class|
+|Assist and help develop software for all four projects in the class these include the following: buffer overflows, malware analysis, cryptography and XSS|
+|Grade projects and papers for students and participate in weekly Office Hours|
+
+
 |Instructional Support Technician – Farmingdale State College (1/18 to present)|
 |------------------------------------------------------------------------------|
 |	Develop technical labs for the Computer Security Technology program |
@@ -48,6 +55,8 @@ Technical Proficiencies:
 |Kali Linux|
 |Metasploit|
 |Metasploitable|
+|angr|
+|Radare2|
 
 |Cloud Services|
 |--------------|
