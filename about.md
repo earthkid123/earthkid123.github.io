@@ -18,12 +18,12 @@ Professional Experience:
 
 |Instructional Support Technician – Farmingdale State College (1/18 to present)|
 |------------------------------------------------------------------------------|
-|	Develop technical labs for the Computer Security Technology program |
-| Develop technical labs for the Security Systems program|
-|	Maintain all switches, routers, firewalls and computers within the department|
-|Prepare Technical budgets |
-|	Maintain inventory of equipment within the department |
-|	Aid Professors in the teaching of the course material for the students|
+|Develop 56% of lab infrastructure for the Computer Security Technology & Security Systems degree programs within Farmingdale State College. These labs/projects include but are not limited to the following: C/C++ operating system vulnerabilities, cryptography labs and research in python/Go, analyzing different digital forensic  payloads using Autopsy, Python, C and JavaScript exploits on different systems, Analyzing malware samples and Machine Learning and how it can be used for security with python. |
+|Maintain, monitor, and fix all routers, switches, firewalls, servers, and computers within the department. This includes Windows, Linux and Cisco based devices. |
+|Prepare technical budgets for the department & assist in procuring new hardware and software for the department to use in their lab environments|
+|Maintain inventory of all technical and non-technical equipment within the department. |
+|Aid Professors in different ongoing research efforts in different fields such as image processing, cryptography|
+|Analyze and visualize student data within the Security Systems & Computer Security Technology department at Farmingdale State College.|
 
 (It's not technically a job but I'm also part of the College Wide Curriculum Committee. I review Course Changes departments want to make and I also review new courses which departments want to design. (It's all about that Bloom's Taxonomy)
   
@@ -39,6 +39,7 @@ Technical Proficiencies:
 |R|
 |Java|
 |Go|
+|Flutter|
 
 |Database Tools|
 |--------------|
