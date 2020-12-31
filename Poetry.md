@@ -5,7 +5,7 @@ permalink: /Poetry/
 ---
 I figured I should also have a collection of some of my poetry here since I enjoy it on my spare time below is a collection of some of my work. 
 
-** Poem 1 Teardrop **  <br />
+**Poem 1 Teardrop** <br />
 Every teardrop <br />
 Tear drops fall from your blue eyes   <br />
 my heart skips a beat at their sight  <br />
@@ -32,7 +32,7 @@ soft upon your face  <br />
 shelter you from pain  <br />
 in the recesses of my love.  <br />
   <br />
-** Poem 2 Shall we Dance**   <br />
+**Poem 2 Shall we Dance**   <br />
 A girl gracefully moving across the stage   <br />
 She stops her eyes close   <br />
 She hears a voice “Shall we dance my lady?”  <br />
@@ -53,7 +53,7 @@ so beautiful then that of her  <br />
 The figure goes up to her and says   <br />
 “Shall we dance my lady?”  <br />
   <br />
-** Poem 3 Life **  <br />
+**Poem 3 Life**  <br />
 Where Life Takes You  <br />
 In an instant  <br />
 The question is gone  <br />
@@ -83,7 +83,7 @@ Never to be forgotten  <br />
 Only to be cherished  <br />
 for Always  <br />
   <br />
-** Poem 4 Cage **  <br />
+**Poem 4 Cage**  <br />
 Captured in a cage I am a slave,  <br />
 But Whom do I work for?  <br />
 The bars they are closing in... <br />
@@ -103,7 +103,7 @@ Feeling like a baby in a crib and not being able to break  <br />
 I grab the bars but free I can't have it I'm dying   <br />
 This cage it..it... Feels like a casket   <br />
   <br />
-** Poem 5 Fussion **  <br />
+**Poem 5 Fussion**  <br />
 Floating quiety in the serene night sky  <br />
 As the gleam of the stars reflect my tears   <br />
 The vibration intensity rushes through   <br />
