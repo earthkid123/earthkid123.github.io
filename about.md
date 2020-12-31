@@ -73,7 +73,6 @@ Extra's
 
 * Cooking
 * Poetry
-* Learning new things
 * Chess
 * MOOCS
 * Cards
