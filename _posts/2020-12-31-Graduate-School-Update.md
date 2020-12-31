@@ -28,5 +28,3 @@ I have been away from this website for sometime working, coding some side projec
 There are so many places to explore the sunrise and sunset there Cadillac Mountain being one of my favorites but also I was a big fan of the Bass Harbor Head Lighthouse (just wear sneakers if you go over there you will have to climb rocks and please follow the path to the rocks we saw a woman get stuck in between a fence trying to take a shortcut just follow the path and yes the woman eventually got out). My favorite spot was Jordan Pond I could hike around jordan pond and bubble rock all day it is just absolutely breathtaking and the walk is relaxing also around there you will not regret it I promise. If you have any more questions about Acadia or Marthas Vineyard feel free to message me and I will try to respond.
 
 As I close this part of my blog post Happy New Years eve and happy new years if you're reading this please stay healthy and I hope to see you in the new current viewer.
-
--Joe
