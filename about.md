@@ -16,7 +16,7 @@ Experience
 ----------
 
 01/2018-present
-:   **Instructional Support Technician**;
+:   **Instructional Support Technician**; <br />
 Farmingdale State College-SUNY
 
 *Improved lab and coursework infrastructure by 65% for the Computer Security Technology & Security Systems degree programs within Farmingdale State College(these labs include using:C, C++, GDB, Wireshark, Malware samples, snort, Python and Go-lang) 
@@ -33,7 +33,7 @@ Farmingdale State College-SUNY
 
 01/2020-present
 
-:   **Graduate Teaching Assistant for CS 6035 Introduction to Information Security** 
+:   **Graduate Teaching Assistant for CS 6035 Introduction to Information Security** <br />
 Georgia Institute of Technology
 
 •Develop content for exams and quizzes used in the CS 6035 class with the content creation team by analyzing discrimination index values based on current and past semester usage of the questions
