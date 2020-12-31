@@ -46,29 +46,21 @@ Technical Experience
 
 
 
-Programming Languages
-     *Python, Matlab, Bash, C++, C, Flutter, Go, JavaScript, Java
+Programming Languages: Python, Matlab, Bash, C++, C, Flutter, Go, JavaScript, Java
 
-Tools & Utilities
-     *GDB, pwndbg, Cuckoo, VMware workstation player, Oracle VM VirtualBox, Git,  
+Tools & Utilities: GDB, pwndbg, Cuckoo, VMware workstation player, Oracle VM VirtualBox, Git,  
 
-Security Tools
-     *Wireshark, Kleopatra, SNORT, Nmap, Metasploit, Metasploitable, angr,radare2,Arachni
+Security Tools: Wireshark, Kleopatra, SNORT, Nmap, Metasploit, Metasploitable, angr,radare2,Arachni
 
-Database Platforms
-     *MongoDB, SQLite, MySQL
+Database Platforms: MongoDB, SQLite, MySQL
 
-Cloud Computing Technologies
-     *Amazon Web Services (S3, EC2, Glue), Google Cloud Platform Digital 
+Cloud Computing Technologies: Amazon Web Services (S3, EC2, Glue), Google Cloud Platform Digital 
 
-Forensics Tools
-     *Encase Forensics, FTK Imager and The Sleuth Kit (Autopsy), SANS SIFT 
+Forensics Tools: Encase Forensics, FTK Imager and The Sleuth Kit (Autopsy), SANS SIFT 
 
-Container
-     *Docker
+Container: Docker
 
-Operating System Platforms
-     *Windows, Ubuntu, Kali Linux, CentOS, macOS
+Operating System Platforms=: Windows, Ubuntu, Kali Linux, CentOS, macOS
 
 
 
