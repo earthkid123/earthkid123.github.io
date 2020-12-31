@@ -1,6 +1,7 @@
 About
 ---------
 
+
 2019-2021 (expected)
 :   **Master of Science in Cybersecurity(Information Security focus)**;
      Georgia Institute of Technology (Online)
