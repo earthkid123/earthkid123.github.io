@@ -40,11 +40,11 @@ permalink: /Food/
 
 6.) Once that is done I let it sit for an hour or so too cook and stir every 10 minutes the food to make sure it doesnt burn on a medium to high heat (for my stove at least). <br />
 
-7. Serve after the hour or leave it on low until you serve. This dish goes well I hear with Riesling as per my fiancee. <br />
+7.) Serve after the hour or leave it on low until you serve. This dish goes well I hear with Riesling as per my fiancee. <br />
 
 **Fudge Brownies** <br />
 
-1.) I don't have a step by step here because I got this from a Tasty video but when I make brownies for a party or in general for fun this is recipe I use it is easily the best and the brownies are always a hit the link is here:[Fudgy Brownies](https://tasty.co/recipe/the-best-fudgy-brownies) <br />
+1.) I don't have a step by step here because I got this from a Tasty video but when I make brownies for a party or in general for fun this is recipe I use it is easily the best and the brownies are always a hit the link is here: [Fudgy Brownies](https://tasty.co/recipe/the-best-fudgy-brownies) <br />
 
 
 
